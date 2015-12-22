@@ -1,2 +1,3 @@
 ## cursor.css
-All cursor property value here
+Cursor.css is a css framework with all cursor property;
+You can use those [Here]()

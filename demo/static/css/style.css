@@ -84,7 +84,6 @@ a:hover{color:#dc4f35; }
     border-right-width: 1px;
 }
 .wrap .box .btn-copy{
-    opacity: 0;
     position: absolute;
     right:20px;
     top:10px;
