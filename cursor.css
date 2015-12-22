@@ -53,6 +53,22 @@
 .not-allowed {
     cursor: not-allowed;
 }
+.grab{
+    cursor: grab;
+    cursor: -webkit-grab;
+
+}
+.grabbing{
+    cursor: grabbing;
+    cursor: -webkit-grabbing;
+
+}
+.zoom-in{
+    cursor: zoom-in;
+}
+.zoom-out{
+    cursor: zoom-out;
+}
 .all-scroll {
     cursor: all-scroll;
 }
